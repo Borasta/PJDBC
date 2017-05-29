@@ -12,7 +12,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Hilo arr[] = new Hilo[1000];
+		Hilo arr[] = new Hilo[100];
 		
 		for (int i = 0; i < arr.length; i++) {
 			arr[i] = new Hilo(true);
